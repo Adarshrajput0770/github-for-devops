@@ -1,4 +1,6 @@
-print("hello")
-print ("adarsh")
+def my_function():
+    a = 5
+    return a
 
-my new changes
+
+my_function()
