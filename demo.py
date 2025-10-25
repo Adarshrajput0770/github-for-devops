@@ -1,5 +1,6 @@
 """This module demonstrates a simple function example."""
 
+
 def my_function():
     """Return the number 5 as a sample value."""
     a = 5
@@ -7,4 +8,4 @@ def my_function():
 
 
 if __name__ == "__main__":
-    my_function()
+    print(my_function())
